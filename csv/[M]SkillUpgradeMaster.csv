@@ -1,0 +1,9 @@
+,,id,,skill_master_id,,condition_type,need_skill_master_id_1,need_skill_master_id_2,,
+,,long,,long,,int,long,long,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,dev1 のタグを指定してビルドを行った際に含まれる,,,,,,,,version 定義がない際はそのレコードはビルド対象としない (メモ用)
+,,,,,,,,,,
+,,dev1 もしくは dev2 のタグを指定してビルドを行った際に含まれる,,,,,,,,
